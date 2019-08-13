@@ -7,11 +7,11 @@ var connection;
  }
  else
  connection = mysql.createConnection({
-  host: "localhost",
+  host: "umabrisfx8afs3ja.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
   port: 3306,
-  user: "root",
-  password: "rootroot",
-  database: "burgers_db"
+  user: "nmxrfgi164yqxogu",
+  password: "tpi4atv1jopc0bxh",
+  database: "v10tnuchwfafclrh"
 });
 
 // Make connection.
